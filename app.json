@@ -1,3 +1,4 @@
+
 {
   "expo": {
     "name": "personal-cv-app",
@@ -6,6 +7,9 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "experiments": {
+      "baseUrl": "/UTS_pemograman-Mobile-2"
+    },
     "ios": {
       "supportsTablet": true
     },
